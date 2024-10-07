@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\skyla\OneDrive\Desktop\GLSL\RayTracing\build\CMakeFiles\1077f65196043a7b24352af328b53832\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{BA1917F2-8B19-3B00-BA9D-391061237C84}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

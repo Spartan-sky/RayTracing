@@ -1,0 +1,14 @@
+C:/Users/skyla/OneDrive/Desktop/GLSL/RayTracing/build/CMakeFiles/raytracing.dir
+C:/Users/skyla/OneDrive/Desktop/GLSL/RayTracing/build/CMakeFiles/INSTALL.dir
+C:/Users/skyla/OneDrive/Desktop/GLSL/RayTracing/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/skyla/OneDrive/Desktop/GLSL/RayTracing/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/skyla/OneDrive/Desktop/GLSL/RayTracing/build/include/glad/CMakeFiles/glad.dir
+C:/Users/skyla/OneDrive/Desktop/GLSL/RayTracing/build/include/glad/CMakeFiles/INSTALL.dir
+C:/Users/skyla/OneDrive/Desktop/GLSL/RayTracing/build/include/glad/CMakeFiles/ALL_BUILD.dir
+C:/Users/skyla/OneDrive/Desktop/GLSL/RayTracing/build/include/glfw/CMakeFiles/uninstall.dir
+C:/Users/skyla/OneDrive/Desktop/GLSL/RayTracing/build/include/glfw/CMakeFiles/INSTALL.dir
+C:/Users/skyla/OneDrive/Desktop/GLSL/RayTracing/build/include/glfw/CMakeFiles/ALL_BUILD.dir
+C:/Users/skyla/OneDrive/Desktop/GLSL/RayTracing/build/include/glfw/src/CMakeFiles/glfw.dir
+C:/Users/skyla/OneDrive/Desktop/GLSL/RayTracing/build/include/glfw/src/CMakeFiles/update_mappings.dir
+C:/Users/skyla/OneDrive/Desktop/GLSL/RayTracing/build/include/glfw/src/CMakeFiles/INSTALL.dir
+C:/Users/skyla/OneDrive/Desktop/GLSL/RayTracing/build/include/glfw/docs/CMakeFiles/INSTALL.dir
